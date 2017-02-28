@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ZahlenGenerator</string>
+    <string name="settings">Settings</string>
+    <string name="rangeStart">Von</string>
+    <string name="rangeEnd">Bis</string>
+    <string name="randomNumber">Zufallszahl</string>
+    <string name="generate">Generieren!</string>
+    <string name="numbersValid">Nur Zahlen gülitg!</string>
+
+    <!--Preference IDs-->
+    <string name="pref_rangeStart" translatable="false">rangeStart</string>
+    <string name="pref_rangeEnd" translatable="false">rangeEnd</string>
+    <!--Default Values-->
+    <string name="defaultRangeStart">1</string>
+    <string name="defaultRangeEnd">45</string>
+</resources>

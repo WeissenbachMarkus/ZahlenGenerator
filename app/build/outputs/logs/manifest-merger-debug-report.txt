@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:preference-v7:25.0.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.markus.zahlengenerator.ZufallszahlActivity
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:launchMode
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:13:13-43
+	android:name
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:12:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.markus.zahlengenerator.SettingsActivity
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:label
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:23:13-45
+	android:parentActivityName
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:22:13-62
+	android:name
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:21:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:24:13-25:55
+	android:value
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:25:17-53
+	android:name
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:24:24-70
+provider#com.example.markus.zahlengenerator.NumberContentProvider
+ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:28:9-32:11
+	android:authorities
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:29:13-69
+	android:exported
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml:30:13-84
+uses-sdk
+INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:preference-v7:25.0.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.0.0\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] F:\schule\dopPOS1\ZahlenGenerator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml
+		INJECTED from F:\schule\dopPOS1\ZahlenGenerator\app\src\main\AndroidManifest.xml

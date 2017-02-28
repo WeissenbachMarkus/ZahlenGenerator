@@ -1,0 +1,7 @@
+#Tue Feb 28 22:48:23 CET 2017
+base.0=F\:\\schule\\dopPOS1\\ZahlenGenerator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c25ef3a0016fac9ff3289765be29cee24b67872d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\schule\\dopPOS1\\ZahlenGenerator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c237a3e265507b7a91534853ac4b199d27d329bd\\classes.dex
+base.1=F\:\\schule\\dopPOS1\\ZahlenGenerator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c237a3e265507b7a91534853ac4b199d27d329bd
+file.0=F\:\\schule\\dopPOS1\\ZahlenGenerator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c25ef3a0016fac9ff3289765be29cee24b67872d\\classes.dex
